@@ -1,1 +1,1 @@
-# burai-tools
+This is tools for BURAI <https://github.com/BURAI-team/burai>.
